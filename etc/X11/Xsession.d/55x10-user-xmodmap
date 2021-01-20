@@ -1,0 +1,3 @@
+if [ -r $HOME/.Xmodmap ]; then
+  xmodmap $HOME/.Xmodmap
+fi

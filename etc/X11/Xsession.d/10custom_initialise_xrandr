@@ -1,0 +1,4 @@
+xset -b
+xrandr --setprovideroutputsource modesetting NVIDIA-0
+# TODO: do this dynamically based on which monitors are connected.
+xrandr --output eDP-1-1 --left-of DP-0 --scale 1x1 --auto --output DP-0 --auto --preferred --scale 1x1 --dpi 120

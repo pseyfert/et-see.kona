@@ -1,0 +1,2 @@
+deb https://developer.download.nvidia.com/compute/cuda/repos/debian10/x86_64/ /
+# deb-src https://developer.download.nvidia.com/compute/cuda/repos/debian10/x86_64/ /
